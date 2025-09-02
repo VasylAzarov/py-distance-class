@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-Number = int | float
 
 class Distance:
     def __init__(self, km: float) -> None:
